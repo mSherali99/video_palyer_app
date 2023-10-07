@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f11af8d-9ecc-4cc1-8c19-54d488a51a8f" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/../chakana/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/kotlin/com/example/chakana/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/chakana_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/chakana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/lib/data/model/request_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/lib/data/source/api/my_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/lib/presetation/screens/main/main_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chakana/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/data/source/api/my_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/data/source/api/my_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/data/source/local/app_database.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/data/source/local/app_database.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/data/source/local/product_dao.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/data/source/local/product_dao.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/bloc/home_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/home/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/main/bloc/main_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/main/bloc/main_event.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/main/bloc/main_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/main/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/main/main_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/bloc/saved_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/bloc/saved_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/bloc/saved_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/bloc/saved_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/saved_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/screens/saved/saved_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/widgets/no_internet_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/lib/presetation/widgets/widget_for_homescreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/lib/presetation/widgets/widget_for_homescreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ULaTxxNMY4K4lgeXGaYRHFie0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "C:/Users/e-7270/AndroidStudioProjects/video_palyer_app",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TUF\AndroidStudioProjects\video_palyer_app\android\app\src\main\res\drawable" />
+      <recent name="C:\Users\TUF\AndroidStudioProjects\video_palyer_app\lib\presentation\screen\second_page" />
+      <recent name="C:\Users\TUF\AndroidStudioProjects\video_palyer_app\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TUF\AndroidStudioProjects\video_palyer_app\assets\images" />
+      <recent name="C:\Users\TUF\AndroidStudioProjects\video_palyer_app\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f11af8d-9ecc-4cc1-8c19-54d488a51a8f" name="Changes" comment="" />
+      <created>1692721332586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692721332586</updated>
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1692964976315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692964976315</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1692965341964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692965341964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+</project>
